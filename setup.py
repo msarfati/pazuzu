@@ -12,8 +12,9 @@ setup(version=version,
         "pazuzu",
     ],
     scripts=[
-        "bin/runserver.py",
+        # "bin/runserver.py",
         "bin/manage.py",
+        "bin/basic_server.py",
     ],
     long_description="""""",
     classifiers=[],  # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
@@ -28,6 +29,7 @@ setup(version=version,
     # ],
     install_requires=[
         "Flask==0.10.1",
+        "Flask-Script==2.0.5",
         # "Sphinx==1.3.1",
         # "marshmallow==1.2.6",
         # "pysqlite==2.6.3",
