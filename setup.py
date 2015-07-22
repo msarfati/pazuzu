@@ -10,6 +10,8 @@ setup(version=version,
     description="Wi-Fi management frontend",
     packages=[
         "pazuzu",
+        "pazuzu.views",
+        "pazuzu.views.base",
     ],
     scripts=[
         # "bin/runserver.py",

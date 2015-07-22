@@ -11,7 +11,10 @@ install:
 
 clean:
 	rm -rf build dist *.egg-info
-	-rm `find . -name "*.pyc"`
+	#find $$PWD -name '__pycache__' -exec chflags hidden {} \;
+ 	#grep -E "(__pycache__|\.pyc$)" | xargs rm -rf
+#	find $$PWD -path '*/__pycache__/*' -delete
+#	find $$PWD -type d -path '__pycache__' -empty -delete
 
 server:
 	SETTINGS=$$PWD/etc/dev.conf bin/manage.py runserver
