@@ -17,7 +17,10 @@
    id="svg4632"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ui1.svg">
+   sodipodi:docname="ui1.svg"
+   inkscape:export-filename="/home/msarfati/devel/pazuzu/docs/design/ui/ui1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4634">
     <linearGradient
@@ -88,8 +91,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="460.3753"
-     inkscape:cy="397.12479"
+     inkscape:cx="333.43724"
+     inkscape:cy="515.07828"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -99,7 +102,8 @@
      inkscape:window-x="0"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
-     units="mm" />
+     units="mm"
+     showguides="false" />
   <metadata
      id="metadata4637">
     <rdf:RDF>
@@ -128,6 +132,15 @@
        ry="5.3743801" />
     <rect
        style="fill:#1a1a1a"
+       id="rect10036"
+       width="1001.9485"
+       height="264.28571"
+       x="13.765771"
+       y="499.50507"
+       rx="8.4670372"
+       ry="4.8031926" />
+    <rect
+       style="fill:#1a1a1a"
        id="rect9982"
        width="1028.5714"
        height="57.142857"
@@ -151,21 +164,25 @@
        id="rect10309"
        width="95.964493"
        height="51.51778"
-       x="40.406101"
-       y="347.27573"
+       x="301.61826"
+       y="347.69415"
        rx="4.1382198"
        ry="4.1016698" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:125%;font-family:Lucida;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="60"
-       y="382.36221"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:Lucida;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="321.21216"
+       y="373.68927"
        id="text9992"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
-         id="tspan9994"
-         x="60"
-         y="382.36221">Scan</tspan></text>
+         x="321.21216"
+         y="373.68927"
+         id="tspan14592">SSID</tspan><tspan
+         sodipodi:role="line"
+         x="321.21216"
+         y="396.18927"
+         id="tspan14596">Scan</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot9996"
@@ -180,18 +197,18 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin'" /></flowRegion><flowPara
          id="flowPara10002" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:125%;font-family:Lucida;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="201.2589"
-       y="367.17688"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:Lucida;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="457.42026"
+       y="371.63593"
        id="text9992-6"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
          id="tspan9994-0"
-         x="201.2589"
-         y="367.17688">Saved</tspan><tspan
+         x="457.42026"
+         y="371.63593">Saved</tspan><tspan
          sodipodi:role="line"
-         x="201.2589"
-         y="398.42688"
+         x="457.42026"
+         y="394.13593"
          id="tspan10090">SSIDs</tspan></text>
     <text
        xml:space="preserve"
@@ -204,15 +221,6 @@
          id="tspan10034"
          x="52.857143"
          y="330.93362">Menu</tspan></text>
-    <rect
-       style="fill:#1a1a1a"
-       id="rect10036"
-       width="1001.9485"
-       height="295.71426"
-       x="13.765771"
-       y="499.50507"
-       rx="8.4670372"
-       ry="5.374383" />
     <rect
        style="fill:#008080;fill-opacity:1"
        id="rect10286"
@@ -406,7 +414,7 @@
        ry="4.1016698" />
     <g
        id="g4205"
-       transform="matrix(1.0126519,0,0,0.76305895,221.33973,474.71352)"
+       transform="matrix(1.0173675,0,0,0.68283834,217.60067,477.14984)"
        style="fill:#4d4d4d">
       <g
          transform="translate(282.45325,119.09408)"
@@ -649,11 +657,85 @@
        transform="translate(55.139972,296.83915)"><flowRegion
          id="flowRegion10040"><rect
            id="rect10042"
-           width="962.85712"
-           height="35.714287"
+           width="905.71429"
+           height="35.714294"
            x="41.42857"
            y="214.09448"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin Bold';text-align:start;text-anchor:start;fill:#00ff00" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin Bold';text-align:start;text-anchor:start;fill:#00ff00"
+           ry="0" /></flowRegion><flowPara
          id="flowPara10044"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fixed;-inkscape-font-specification:Fixed;text-align:start;text-anchor:start">SSID       Channel    Signal     Security     Vendor    Mac Address        Dev</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fixed;-inkscape-font-specification:Fixed;text-align:start;text-anchor:start">SSID       Channel    Signal     Security     Vendor    Mac Address        Dev</flowPara></flowRoot>    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.58948797;stroke-opacity:1"
+       id="rect14544"
+       width="133.81013"
+       height="73.837723"
+       x="-160.27499"
+       y="582.34668"
+       rx="6.9233866"
+       ry="2.2839749" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14546"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(58.571368,339.69625)"><flowRegion
+         id="flowRegion14548"><rect
+           id="rect14550"
+           width="127.14285"
+           height="114.28571"
+           x="-212.85715"
+           y="251.23735"
+           style="font-size:17.5px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara14552">(Colors match graph )</flowPara></flowRoot>    <rect
+       style="fill:#165044;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect14572"
+       width="174.28572"
+       height="38.57143"
+       x="808.23962"
+       y="774.97424"
+       rx="8.4670401"
+       ry="4.8031902"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:125%;font-family:Lucida;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="836.64136"
+       y="802.64594"
+       id="text9992-64"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan9994-3"
+         x="836.64136"
+         y="802.64594">Connect &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:Lucida;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.402462"
+       y="381.14655"
+       id="text9992-6-2"
+       sodipodi:linespacing="89.999998%"
+       inkscape:transform-center-y="2.8571428"><tspan
+         sodipodi:role="line"
+         x="42.402462"
+         y="381.14655"
+         id="tspan14621">Status</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:Lucida;-inkscape-font-specification:'Lucida Medium';letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="155.89384"
+       y="372.53845"
+       id="text9992-6-2-6"
+       sodipodi:linespacing="89.999998%"
+       inkscape:transform-center-y="2.8571428"><tspan
+         sodipodi:role="line"
+         x="155.89384"
+         y="372.53845"
+         id="tspan14621-1">Current</tspan><tspan
+         sodipodi:role="line"
+         x="155.89384"
+         y="395.03845"
+         id="tspan14653">Network</tspan></text>
+  </g>
 </svg>
