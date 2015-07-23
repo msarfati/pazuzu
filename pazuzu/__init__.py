@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# Pazuzu by Michael Sarfati, 2015
 from flask import Flask
 
 
